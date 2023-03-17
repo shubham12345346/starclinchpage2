@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/starclinchpage2/static/css/main.fee6655e.css",
+    "main.js": "/starclinchpage2/static/js/main.26cf9d19.js",
+    "static/js/787.312244d5.chunk.js": "/starclinchpage2/static/js/787.312244d5.chunk.js",
+    "index.html": "/starclinchpage2/index.html",
+    "main.fee6655e.css.map": "/starclinchpage2/static/css/main.fee6655e.css.map",
+    "main.26cf9d19.js.map": "/starclinchpage2/static/js/main.26cf9d19.js.map",
+    "787.312244d5.chunk.js.map": "/starclinchpage2/static/js/787.312244d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fee6655e.css",
+    "static/js/main.26cf9d19.js"
+  ]
+}
